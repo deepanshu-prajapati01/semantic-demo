@@ -1,3 +1,9 @@
+## [2.1.0](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v2.0.0...v2.1.0) (2025-12-11)
+
+### Features
+
+* **commits:** commits messages will now follow a standard message convention ([b92547b](https://github.com/deepanshu-prajapati01/semantic-demo/commit/b92547b2efcb02ed9cb61f3b0239089dd6fbde07))
+
 ## [2.0.0](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v1.2.0...v2.0.0) (2025-12-11)
 
 ### ⚠ BREAKING CHANGES
