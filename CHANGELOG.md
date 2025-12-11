@@ -1,3 +1,13 @@
+## [2.2.0](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v2.1.0...v2.2.0) (2025-12-11)
+
+### Features
+
+* asd ([52e3082](https://github.com/deepanshu-prajapati01/semantic-demo/commit/52e30821def657312591357d936b6f57c56ef31b))
+
+### Bug Fixes
+
+* **random:** random stuff ([9a72ace](https://github.com/deepanshu-prajapati01/semantic-demo/commit/9a72acef5f417b072837535b6484f8e9df42d7f4))
+
 ## [2.1.0](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v2.0.0...v2.1.0) (2025-12-11)
 
 ### Features
