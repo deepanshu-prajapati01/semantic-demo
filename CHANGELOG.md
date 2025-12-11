@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v1.1.0...v1.2.0) (2025-12-11)
+
+
+### Features
+
+* a ([1b1070d](https://github.com/deepanshu-prajapati01/semantic-demo/commit/1b1070dcc84bc813d1f0bb141d45efff54405e0d))
+
 # [1.1.0](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v1.0.0...v1.1.0) (2025-12-10)
 
 
