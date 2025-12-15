@@ -1,3 +1,9 @@
+## [2.3.1](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v2.3.0...v2.3.1) (2025-12-15)
+
+### Bug Fixes
+
+* **bug:** idk its a test ([aa65d2c](https://github.com/deepanshu-prajapati01/semantic-demo/commit/aa65d2c9b8fe4d3499e52e3eb15cbbb9fd6cc0e4))
+
 ## [2.3.0](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v2.2.0...v2.3.0) (2025-12-15)
 
 ### Features
