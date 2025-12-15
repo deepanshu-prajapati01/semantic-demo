@@ -1,3 +1,9 @@
+## [4.5.7](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v4.5.6...v4.5.7) (2025-12-15)
+
+### Bug Fixes
+
+* **3:** 3 ([bf1248a](https://github.com/deepanshu-prajapati01/semantic-demo/commit/bf1248a840ed656e945e39bab3ed943cb39bd3bb))
+
 ## [2.3.1](https://github.com/deepanshu-prajapati01/semantic-demo/compare/v2.3.0...v2.3.1) (2025-12-15)
 
 ### Bug Fixes
